@@ -16,4 +16,5 @@ By allowing the user to `await client.request`, we can assign the responses to v
 1. Clone this repository
 1. `$ cd ./wsdemo-node`
 1. `$ npm install`
+1. Open [./index](./index.js) and update lines 2 & 3 with an `accessToken` and `deviceId`.
 1. `$ npm start`
